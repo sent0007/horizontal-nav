@@ -22,13 +22,27 @@ body {
   border-bottom: .3em solid #595652;
   width: 100%;
   margin: 0;
+  text-align: center;
 
 }
 
 li {
   display: inline-block;
-  border-radius: 4px;
   list-style-type: none;
   font-family: sans-serif;
   line-height: 1.5;
+
+}
+
+a {
+  border-radius: 4px;
+  background-color: #713837;
+  list-style: none;
+  text-decoration: none;
+  color:#fff;
+  padding: .75em .6em .75em .6em;
+}
+
+a:hover {
+  background-color: #f33;
 }
