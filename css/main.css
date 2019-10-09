@@ -6,6 +6,10 @@ html {
   box-sizing: inherit;
 }
 
+html {
+  background-color: #dbd6cf;
+  }
+
 h1 {
   font-family: 'Bevan', cursive;
   margin: .3em;
@@ -13,26 +17,18 @@ h1 {
 }
 
 body {
-  background-color: #dbd6cf;
-}
-
-li {
-  list-style-type: none;
-  font-family: sans-serif;
-  line-height: 1.5;
-}
-
-div {
-  display: block;
   background-color: #79756f;
   border-top: .3em solid #595652;
   border-bottom: .3em solid #595652;
   width: 100%;
   margin: 0;
-  padding: 0;
+
 }
 
 li {
-
-
+  display: inline-block;
+  border-radius: 4px;
+  list-style-type: none;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
