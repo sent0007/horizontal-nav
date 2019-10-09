@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: 'Bevan', cursive;
+  margin: .3em;
+  color: #fff;
+}
+
+body {
+  background-color: #dbd6cf;
+}
+
+li {
+  list-style-type: none;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+div {
+  display: block;
+  background-color: #79756f;
+  border-top: .3em solid #595652;
+  border-bottom: .3em solid #595652;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+
+
+}
