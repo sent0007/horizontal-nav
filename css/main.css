@@ -8,7 +8,7 @@ html {
 }
 
 h1 {
-  font-family: "Bevan", cursive;
+  font-family: "Bevan", serif;
   margin: .3em;
   color: #fff;
   text-align: center;
@@ -37,8 +37,8 @@ a {
   background-color: #713837;
   list-style: none;
   text-decoration: none;
-  color:#fff;
-  padding: .75em .6em .75em .6em;
+  color: #fff;
+  padding: .75em .6em;
 }
 
 a:hover {
