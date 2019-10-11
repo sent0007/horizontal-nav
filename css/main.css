@@ -8,7 +8,7 @@ html {
 }
 
 h1 {
-  display: block;
+  display: inline-block;
   font-family: "Bevan", serif;
   margin: .3em;
   color: #fff;
