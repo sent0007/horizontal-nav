@@ -8,6 +8,7 @@ html {
 }
 
 h1 {
+  display: block;
   font-family: "Bevan", serif;
   margin: .3em;
   color: #fff;
@@ -26,7 +27,7 @@ body {
 }
 
 li {
-  display: inline-block;
+  display: inline;
   list-style-type: none;
   font-family: sans-serif;
   line-height: 1.5;
