@@ -1,24 +1,18 @@
 html {
   box-sizing: border-box;
+  background-color: #dbd6cf;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-html {
-  background-color: #dbd6cf;
-  }
-
 h1 {
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
   margin: .3em;
   color: #fff;
   text-align: center;
   margin-bottom: -.25em;
-
-
-
 }
 
 body {
@@ -29,7 +23,6 @@ body {
   margin: 0;
   text-align: center;
   padding-bottom: .5em;
-
 }
 
 li {
@@ -37,7 +30,6 @@ li {
   list-style-type: none;
   font-family: sans-serif;
   line-height: 1.5;
-
 }
 
 a {
@@ -47,7 +39,6 @@ a {
   text-decoration: none;
   color:#fff;
   padding: .75em .6em .75em .6em;
-
 }
 
 a:hover {
