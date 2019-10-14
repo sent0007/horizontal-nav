@@ -10,6 +10,7 @@ html {
 h1 {
   display: inline-block;
   font-family: Bevan, serif;
+  font-style: normal;
   margin: .3em;
   color: #fff;
   text-align: center;
